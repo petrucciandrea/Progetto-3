@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<data timestamp="20180918134510" scadaurl="10.151.2.201">
+	<sottosistema id="D">
+		<elemento tipo="INT" prog="1" canna="" km="" cabina="CE1" c_con="SQR06020023" quadro="QEG1" descrizione="GENERALE SEZIONE RETE" nome="QMR" sottotipo="34">
+			<stato>1</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="INT" prog="2" canna="" km="" cabina="CE1" c_con="SQR06020023" quadro="QEG1" descrizione="GENERALE SEZIONE G.E." nome="QMGE" sottotipo="34">
+			<stato>1</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+	</sottosistema>
+	<sottosistema id="E">
+		<elemento tipo="LV4" prog="1" canna="" km="" cabina="CE1" c_con="SQR06020023" quadro="" descrizione="Allarme Sversamento" nome="Livello Vasca" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="ALG" prog="2" canna="" km="" cabina="CE1" c_con="SQR06020023" quadro="" descrizione="Allagamento direzione Monza" nome="" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="ALG" prog="3" canna="" km="" cabina="CE1" c_con="SQR06020023" quadro="" descrizione="Allagamento direzione Rho" nome="" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="4" canna="" km="" cabina="CE1" c_con="SQR06020023" quadro="" descrizione="Allagamento direzione Monza" nome="" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="5" canna="" km="" cabina="CE1" c_con="SQR06020023" quadro="" descrizione="Allagamento direzione Rho" nome="" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="6" canna="" km="" cabina="CE1" c_con="SQR06020023" quadro="" descrizione="Livello minimo vasca" nome="" sottotipo="">
+			<stato>1</stato>
+			<allarme descrizione="GRAVE ANOMALIA" codice=""></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="7" canna="" km="" cabina="CE1" c_con="SQR06020023" quadro="" descrizione="Livello massimo vasca L4" nome="" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="8" canna="" km="" cabina="CE1" c_con="SQR06020023" quadro="" descrizione="Phmetro" nome="" sottotipo="">
+			<stato>1</stato>
+			<allarme descrizione="GRAVE ANOMALIA" codice="2"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="9" canna="" km="" cabina="CE1" c_con="SQR06020023" quadro="" descrizione="Mancato svuotamento" nome="" sottotipo="">
+			<stato>1</stato>
+			<allarme descrizione="GRAVE ANOMALIA" codice="2"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="10" canna="" km="" cabina="CE1" c_con="SQR06020023" quadro="" descrizione="Presenza 24V" nome="" sottotipo="">
+			<stato>1</stato>
+			<allarme descrizione="GRAVE ANOMALIA" codice="2"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="11" canna="" km="" cabina="CE1" c_con="SQR06020023" quadro="" descrizione="Sonda WL_61" nome="" sottotipo="">
+			<stato>1</stato>
+			<allarme descrizione="GRAVE ANOMALIA" codice="2"></allarme>
+		</elemento>
+		<elemento tipo="PLU" prog="12" canna="" km="" cabina="CE1" c_con="SQR06020023" quadro="" descrizione="Pluviometro" nome="" sottotipo="">
+			<stato>1</stato>
+			<allarme descrizione="GRAVE ANOMALIA" codice="2"></allarme>
+		</elemento>
+		<elemento tipo="LV4" prog="13" canna="" km="" cabina="SHR4" c_con="SQR06020039" quadro="" descrizione="Allarme Sversamento" nome="Livello Vasca" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="14" canna="" km="" cabina="SHR4" c_con="SQR06020039" quadro="" descrizione="Livello minimo vasca" nome="" sottotipo="">
+			<stato>1</stato>
+			<allarme descrizione="GRAVE ANOMALIA" codice="2"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="15" canna="" km="" cabina="SHR4" c_con="SQR06020039" quadro="" descrizione="Livello massimo vasca L4" nome="" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="16" canna="" km="" cabina="SHR4" c_con="SQR06020039" quadro="" descrizione="Mancato svuotamento" nome="" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="17" canna="" km="" cabina="SHR4" c_con="SQR06020039" quadro="" descrizione="Presenza 24V" nome="" sottotipo="">
+			<stato>1</stato>
+			<allarme descrizione="GRAVE ANOMALIA" codice="2"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="18" canna="" km="" cabina="SHR4" c_con="SQR06020039" quadro="" descrizione="Sonda WL_61" nome="" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="LV4" prog="19" canna="" km="" cabina="SHR8" c_con="SQR06020036" quadro="" descrizione="Allarme Sversamento" nome="Livello Vasca" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="20" canna="" km="" cabina="SHR8" c_con="SQR06020036" quadro="" descrizione="Livello minimo vasca" nome="" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="21" canna="" km="" cabina="SHR8" c_con="SQR06020036" quadro="" descrizione="Livello massimo vasca L4" nome="" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="22" canna="" km="" cabina="SHR8" c_con="SQR06020036" quadro="" descrizione="Mancato svuotamento" nome="" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="23" canna="" km="" cabina="SHR8" c_con="SQR06020036" quadro="" descrizione="Presenza 24V" nome="" sottotipo="">
+			<stato>1</stato>
+			<allarme descrizione="GRAVE ANOMALIA" codice="2"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="24" canna="" km="" cabina="SHR8" c_con="SQR06020036" quadro="" descrizione="Sonda WL_61" nome="" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="LV4" prog="25" canna="" km="" cabina="SHR9" c_con="SQR06020026" quadro="" descrizione="Allarme Sversamento" nome="Livello Vasca" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="26" canna="" km="" cabina="SHR9" c_con="SQR06020026" quadro="" descrizione="Livello minimo vasca" nome="" sottotipo="">
+			<stato>1</stato>
+			<allarme descrizione="GRAVE ANOMALIA" codice="2"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="27" canna="" km="" cabina="SHR9" c_con="SQR06020026" quadro="" descrizione="Livello massimo vasca L4" nome="" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="28" canna="" km="" cabina="SHR9" c_con="SQR06020026" quadro="" descrizione="Mancato svuotamento" nome="" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="29" canna="" km="" cabina="SHR9" c_con="SQR06020026" quadro="" descrizione="Presenza 24V" nome="" sottotipo="">
+			<stato>1</stato>
+			<allarme descrizione="GRAVE ANOMALIA" codice="2"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="30" canna="" km="" cabina="SHR9" c_con="SQR06020026" quadro="" descrizione="Sonda WL_61" nome="" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="LV4" prog="31" canna="" km="" cabina="SHR11" c_con="SQR06020040" quadro="" descrizione="Allarme Sversamento" nome="Livello Vasca" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="32" canna="" km="" cabina="SHR11" c_con="SQR06020040" quadro="" descrizione="Livello minimo vasca" nome="" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="33" canna="" km="" cabina="SHR11" c_con="SQR06020040" quadro="" descrizione="Livello massimo vasca L4" nome="" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="34" canna="" km="" cabina="SHR11" c_con="SQR06020040" quadro="" descrizione="Mancato svuotamento" nome="" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="35" canna="" km="" cabina="SHR11" c_con="SQR06020040" quadro="" descrizione="Presenza 24V" nome="" sottotipo="">
+			<stato>1</stato>
+			<allarme descrizione="GRAVE ANOMALIA" codice="2"></allarme>
+		</elemento>
+		<elemento tipo="SPI" prog="36" canna="" km="" cabina="SHR11" c_con="SQR06020040" quadro="" descrizione="Sonda WL_61" nome="" sottotipo="">
+			<stato>0</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="PMP" prog="37" canna="" cabina="CE1" c_con="SQR06020023" quadro="QP" nome="P1" descrizione="pompa 1" sottotipo="0">
+			<stato>1010</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="PMP" prog="38" canna="" cabina="CE1" c_con="SQR06020023" quadro="QP" nome="P2" descrizione="pompa 2" sottotipo="0">
+			<stato>1010</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="PMP" prog="39" canna="" cabina="CE1" c_con="SQR06020023" quadro="QP" nome="P3" descrizione="pompa 3" sottotipo="0">
+			<stato>1010</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="PMP" prog="40" canna="" cabina="CE1" c_con="SQR06020023" quadro="QP" nome="P4" descrizione="pompa 4" sottotipo="0">
+			<stato>1010</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="PMP" prog="41" canna="" cabina="CE1" c_con="SQR06020023" quadro="QP" nome="P5" descrizione="pompa 5" sottotipo="0">
+			<stato>1010</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="PMP" prog="42" canna="" cabina="SHR4" c_con="SQR06020039" quadro="QP" nome="P1" descrizione="pompa 1" sottotipo="0">
+			<stato>1010</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="PMP" prog="43" canna="" cabina="SHR4" c_con="SQR06020039" quadro="QP" nome="P2" descrizione="pompa 2" sottotipo="0">
+			<stato>1010</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="PMP" prog="44" canna="" cabina="SHR8" c_con="SQR06020036" quadro="QP" nome="P1" descrizione="pompa 1" sottotipo="0">
+			<stato>1010</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="PMP" prog="45" canna="" cabina="SHR8" c_con="SQR06020036" quadro="QP" nome="P2" descrizione="pompa 2" sottotipo="0">
+			<stato>1010</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="PMP" prog="46" canna="" cabina="SHR9" c_con="SQR06020026" quadro="QP" nome="P1" descrizione="pompa 1" sottotipo="0">
+			<stato>1010</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="PMP" prog="47" canna="" cabina="SHR9" c_con="SQR06020026" quadro="QP" nome="P2" descrizione="pompa 2" sottotipo="0">
+			<stato>1010</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="PMP" prog="48" canna="" cabina="SHR11" c_con="SQR06020040" quadro="QP" nome="P1" descrizione="pompa 1" sottotipo="0">
+			<stato>1010</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="PMP" prog="49" canna="" cabina="SHR11" c_con="SQR06020040" quadro="QP" nome="P2" descrizione="pompa 2" sottotipo="0">
+			<stato>1010</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+		</elemento>
+		<elemento tipo="VASCA" prog="50" canna="" cabina="CE1" c_con="SQR06020023" quadro="QP" nome="vasca" descrizione="vasca Baranzate" sottotipo="">
+			<stato>1</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+			<misura descrizione="livello" unita="mm">55042</misura>
+		</elemento>
+		<elemento tipo="VASCA" prog="51" canna="" cabina="SHR4" c_con="SQR06020039" quadro="QP" nome="vasca 1" descrizione="vasca 1" sottotipo="">
+			<stato>1</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+			<misura descrizione="livello" unita="mm">451</misura>
+		</elemento>
+		<elemento tipo="VASCA" prog="52" canna="" cabina="SHR8" c_con="SQR06020036" quadro="QP" nome="vasca 2" descrizione="vasca 2" sottotipo="">
+			<stato>1</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+			<misura descrizione="livello" unita="mm">235</misura>
+		</elemento>
+		<elemento tipo="VASCA" prog="53" canna="" cabina="SHR9" c_con="SQR06020026" quadro="QP" nome="vasca 3" descrizione="vasca 3" sottotipo="">
+			<stato>1</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+			<misura descrizione="livello" unita="mm">411</misura>
+		</elemento>
+		<elemento tipo="VASCA" prog="54" canna="" cabina="SHR11" c_con="SQR06020040" quadro="QP" nome="vasca 4" descrizione="vasca 4" sottotipo="">
+			<stato>1</stato>
+			<allarme descrizione="OK" codice="0"></allarme>
+			<misura descrizione="livello" unita="mm">139</misura>
+		</elemento>
+	</sottosistema>
+</data>

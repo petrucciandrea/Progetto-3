@@ -5,13 +5,14 @@ import java.util.List;
 import javax.xml.bind.annotation.*;
 
 @XmlRootElement //(name="data")
+@XmlAccessorType(XmlAccessType.FIELD)
 public class Data {
 	
-	@XmlAttribute
+	@XmlAttribute(name = "timestamp")
 	private String timestamp;
 	@XmlElement
 	private List<Sottosistema> sottosistema;
-	@XmlAttribute
+	@XmlAttribute(name = "scadaurl")
 	private String scadaurl;
 	
 	public Data(String timestamp, String scadaurl, List<Sottosistema> sottosistema) {

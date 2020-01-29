@@ -43,9 +43,9 @@ public class SingleFileParser extends Thread {
 					}
 						
 					if(anomalia)
-						this.moveFile(d, "files/WARNING");
+						this.moveFile(d, "files/WARNING/");
 					else
-						this.moveFile(d, "files/BACKUP");
+						this.moveFile(d, "files/BACKUP/");
 					
 				} catch (URISyntaxException | JAXBException e) {
 					e.printStackTrace();

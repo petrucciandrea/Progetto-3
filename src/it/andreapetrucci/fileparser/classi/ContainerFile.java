@@ -125,7 +125,7 @@ public class ContainerFile extends ReentrantLock {
 	}
 	
 	/**
-	 * Il metodo controlla se la lista è vuota
+	 * Il metodo controlla se la lista e' vuota
 	 * @return boolean
 	 */
 	public boolean isEmpty() {

@@ -10,7 +10,7 @@ public class MainThread extends Thread{
 	
 	public void run() {
 		
-		ContainerFile containerFile = new ContainerFile("files/new");
+		ContainerFile containerFile = new ContainerFile("./files/new");
 		ContainerThread containerThread = new ContainerThread(5);
 		
 		System.out.println("Ci sono " + containerFile.size() + " file nella lista");
